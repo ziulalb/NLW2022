@@ -172,6 +172,9 @@ nav {
   width: 100vw;
 
   z-index: 100;
+
+  transition: opacity 400ms;
+
 }
 
 nav .wrapper {
